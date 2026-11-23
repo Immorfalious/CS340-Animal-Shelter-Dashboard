@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="102" viewBox="0 0 430 102" role="img" aria-label="Grazioso Salvare">
+<rect x="1" y="1" rx="18" width="428" height="100" fill="#edf5f4" stroke="#2f5e59" stroke-width="2"/>
+<circle cx="57" cy="51" r="33" fill="#2f5e59"/>
+<g fill="#ffffff"><ellipse cx="43" cy="37" rx="6" ry="9" transform="rotate(-15 43 37)"/><ellipse cx="57" cy="33" rx="6" ry="9"/><ellipse cx="71" cy="37" rx="6" ry="9" transform="rotate(15 71 37)"/><ellipse cx="78" cy="49" rx="5" ry="7" transform="rotate(35 78 49)"/><path d="M43 57 Q52 42 62 52 Q68 58 72 64 Q75 74 61 75 L51 75 Q38 75 40 66Z"/></g>
+<text x="106" y="46" fill="#214b46" font-size="27" font-family="Arial, sans-serif" font-weight="bold">Grazioso Salvare</text>
+<text x="108" y="72" fill="#456c67" font-size="16" font-family="Arial, sans-serif">Animal rescue dashboard</text>
+</svg>
